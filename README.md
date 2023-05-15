@@ -1,9 +1,11 @@
 # Airbnb Madrid
 ## Introducción
 Link del repositorio: https://github.com/mgonzalz/airbnb_madrid.git </br>
-Integrantes del grupo: 
+Integrantes del grupo: Lidia Velicia, Ana García, Lucia Mielgo, María González
 ## Repositorio
-
+- Archivo ipynb con la resolución del ejercicio.
+- Carpeta data dónde se almacena el csv.
+- Carpeta gráficos dónde se almacenan todos los gráficos del jupyter notebook.
 ## Enunciado
 El objetivo de este trabajo es comprobar si se está utilizando la plataforma Airbnb por parte de empresas, en lugar de particulares, para alquiler turístico en el centro de Madrid.</br>
 
